@@ -1,0 +1,19 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "Very simple server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcaito/NodeJS.git"
+  },
+  "author": "Tommy Caito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcaito/NodeJS/issues"
+  },
+  "homepage": "https://github.com/tcaito/NodeJS#readme"
+}
