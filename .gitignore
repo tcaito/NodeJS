@@ -33,4 +33,4 @@ node_modules
 .node_repl_history
 
 # Bootstrap folder
-bootstrap*
+bootstrap-3.3.6-dist
