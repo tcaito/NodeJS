@@ -34,3 +34,6 @@ node_modules
 
 # Bootstrap folder
 bootstrap-3.3.6-dist
+
+# Auth user uploads
+Auth/uploads
